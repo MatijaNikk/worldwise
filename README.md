@@ -1,6 +1,6 @@
 # WorldWise
 
-###Simple project to check ur current geological positon and to select any place in the world and save its location and the data about it.
+### Simple project to check ur current geological positon and to select any place in the world and save its location and the data about it.
 
 ## Important note:
 When starting the app, remember to run the npm run server command in a seperate terminal so we can emulate the server expirience with it.
