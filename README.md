@@ -5,7 +5,7 @@
 ## Important note:
 When starting the app, remember to run the npm run server command in a seperate terminal so we can emulate the server expirience with it.
 
-##Features
+## Features
 * Emulated login
 
 * Marking the map
@@ -18,7 +18,7 @@ When starting the app, remember to run the npm run server command in a seperate 
 
 * eeping the selected places on the map in a list
 
-##Technological Decisions
+## Technological Decisions
 
 * For starting the react app - Vite
 * For styling - css modules
