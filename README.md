@@ -27,3 +27,8 @@ When starting the app, remember to run the npm run server command in a seperate 
 * For the dates - react-datepicker
 * For catching errors - eslint
 * For UI state managment - Context API
+
+## Project preview
+![Screenshot_17](https://github.com/MatijaNikolic345/worldwise/assets/139424786/d427cd0f-9d13-4dcf-92d6-4ed6feae2e26)
+
+![Screenshot_16](https://github.com/MatijaNikolic345/worldwise/assets/139424786/7a149a3a-150c-469b-9fa3-442d7f9bc051)
